@@ -11,3 +11,6 @@ print(monday_temperatures[1:4])
 
 ##printing all the items after index 1
 print(monday_temperatures[1:])
+
+##printing the last item
+print(monday_temperatures[-1])
