@@ -8,3 +8,6 @@ print(monday_temperatures[3])
 
 ##printing the items between index 1 and 4
 print(monday_temperatures[1:4])
+
+##printing all the items after index 1
+print(monday_temperatures[1:])
