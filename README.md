@@ -5,7 +5,7 @@ This is a python based repository this repository is intended for me to transfer
 ## Contents:
 
 ### Test001
-Basic sintax and importing libraries
+Basic syntax and importing libraries
 
 ### Test002
 variables and outputs
