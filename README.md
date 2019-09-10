@@ -1,12 +1,32 @@
 # Python Practice Repository
 
-This is a python based repository in which I am practicing the basics of python as well as making some more advanced programs.
+This is a python based repository this repository is intended for me to transfer my existing knowledge of programming into Python as well as learning new techniques.
 
 ## Contents:
 
-### Project01
-Contains multiple python programs with just programming essentials and python basics.
+### Test001
+Basic sintax and importing libraries
 
+### Test002
+variables and outputs
+
+### Test003
+Arithmetics
+
+### Test004
+List and string manipulation
+
+### Test005
+List and dictionary manipulation
+
+### Test006
+Tuples vs Lists
+
+### Test007
+List ranges, slicing and negative indexing
+
+### Test008
+Dictionary indexing
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
