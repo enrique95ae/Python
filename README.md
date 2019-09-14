@@ -28,5 +28,23 @@ List ranges, slicing and negative indexing
 ### Test008
 Dictionary indexing
 
+### Test009
+Functions
+
+### Test010
+Conditonals
+
+### Test011
+User inputs
+
+### Test012
+String fromatting
+
+### Test013
+String formatting and multi variable
+
+### Test014
+For loops
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
